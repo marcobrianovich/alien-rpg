@@ -6,3 +6,20 @@ an Alien RPG scenario by Mark Lucas
 I cannot think of the deep sea without shuddering at the nameless things that
 may at this very moment be crawling
 and floundering on its slimy bed...
+
+=== Scenario Overview
+
+
+
+The Van Houten Survey Group (Van Houten Enquêtegroep), a Dutch multinational survey comporation identifed an extraordinary megaflora on Braken's world, a mountainous coral-like polyp sprouting from the shallows near De Ruyter's volcanic belt. This structure was found to be bioluminescent at night, the sight of which was considered to be the most breathtakingly beautiful thing the jaded survey scouts had seen. Van Houten's CEO, Eric Gerhardus Van Houten decided that he would build a luxury resort at the site, investing billions on the development. However, disaster struck. The development of the hotel structure resulted in the contamination of the waters around the structure which caused the bioluminescent display to stop. Gus Van Houten brought in competing teams to find a way to fix the problem before his creditors caught wind of the issue.
+
+One group, Advanced Ecological Services (Services écologiques avancés) attempted to clean up the site and indentify the cause of the problem, but results were to slow. A second group, ASTROBIOGEN took a radical approach, ignoring all ethical regulations, they started to hack the DNA of the structure using "changer spores". The AES lead scientist, Elise Cousteau accused ASTROBIOGEN of dangerous regulatory corner-cutting, resulting in the AES team being disbanded. ASTROBIOGEN's genetic engineers failed to identify that the coral structure existed in a symbiosis with several other organisms, one of which has undergone severe alteration, making it dangerous to humans.
+
+The resort nears completion, operating with a skeleton staff, VHSG board members and investors are invited to spend three days and nights at the resort before it enters into the final stages of development.
+
+Something goes horribly wrong and most of the guests are killed. Gus Van Houten and his entourage are baracaded into his private residence. Elise Cousteau, who had set up secret monitoring stations, identified that the whole planet could be in danger of contamination by the changer spores. She launched a desperate mission, along with a team of eco-terrorists to destroy the site, using a nuclear warhead.
+
+[quote, Lomax (Head of Security]
+We need to re-evalate the situation. That heavy object being carried in the security cam footage is a TNB271 Tactical Nuclear. I've been dealing with eco-terrorist types my whole career, I can tell that its a cold hard fact that they don't use tac-nukes. Not ever.
+
+Communication from the station is garbled. The corporate office on Bracken's World mistakenly assumes that eco-terrorists have attacked the resport. They activate the PCs, a team of security specialists and a hostage negotiator to travel to the site, investigate and rescue survivors.
